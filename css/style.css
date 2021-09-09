@@ -63,6 +63,7 @@ header h1 {
   font-weight: 900;
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
+  color: #AB84B0;
 }
 /*-- Article Styles--*/
 article {
@@ -115,7 +116,7 @@ a.button:hover, a.button:active {
 }
 .dropcap{
   font-weight: bold;
-  font-size: 100px;
+  font-size: 90px;
   float:left;
   line-height: .8;
   margin-right: 5px;
